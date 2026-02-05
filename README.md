@@ -106,10 +106,8 @@ blood\_donation\_snowflake/
 
 ---
 ## 👩‍💻 Author
-
-M.Yavari — [LinkedIn](www.linkedin.com/in/marzieh-yavari-1ab66671) | [GitHub](https://github.com/yavarim21)
-
+M. Yavari — [LinkedIn](https://www.linkedin.com/in/marzieh-yavari-1ab66671) | [GitHub](https://github.com/yavarim21)
 
 
-M.Yavari — [LinkedIn](www.linkedin.com/in/marzieh-yavari-1ab66671) | [GitHub](https://github.com/yavarim21)
+
 
